@@ -1,1 +1,0 @@
-ini test teks pertama ku
